@@ -47,10 +47,13 @@ def generate_elevation_plots(df):
         lat2_rad = math.radians(lat2)
         lon1_rad = math.radians(lon1)
         lon2_rad = math.radians(lon2)
+
         delta_lat = lat2_rad - lat1_rad
         delta_lon = lon2_rad - lon1_rad
+
         a = math.sqrt((math.sin(delta_lat/2))**2+math.cos(lat1_rad)*math.cos(lat2_rad)*(math.sin(delta_lon/2))**2)
         d = 2 * 6371000 * math.asin(a)
+        
         return d
 
     # Calculate the distance, using the Haversine function.
