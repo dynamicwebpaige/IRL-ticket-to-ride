@@ -11,7 +11,7 @@ From December 12th through February 4th, I'll be sprinting through the following
 
 | Date(s) | City | Train Route | Notebook | HTML |
 | --- | --- | --- | --- | --- |
-| December 12 - 13 | Portland, OR | [Amtrak Cascades](https://www.amtrak.com/cascades-train) | 📔 | | 
+| December 12 - 13 | Portland, OR | [Amtrak Cascades](https://www.amtrak.com/cascades-train) | [📔](https://github.dev/dynamicwebpaige/IRL-ticket-to-ride/blob/main/notebooks/1-Portland.ipynb) | [📄](https://dynamicwebpaige.github.io/1-Portland.html) | 
 | December 14 - 16 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) | 
 | December 17 - 19 | Glenwood Springs, CO | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | December 20 | Chicago, IL | [California Zephyr](https://www.amtrak.com/california-zephyr-train) | |
@@ -28,6 +28,8 @@ From December 12th through February 4th, I'll be sprinting through the following
 | January 21 - 22 | Chicago, IL | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) | 
 | January 23 - 25 | Whitefish, MT | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
 | January 28 - February 4 | Monterey, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
+| February 5 - 8 | Truckee, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
+| February 8 - 11 | San Francisco, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 
 There will almost certainly be snags, delays, and poor weather along the way - and I'll be documenting **everything**. Each one of these cities has amazing culture, friends to visit, and family to hug - not to mention great food and coffee. I can't wait to share my experiences with you, and to take in, first-hand, everything that the United States has to offer.
 
