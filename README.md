@@ -12,7 +12,7 @@ From December 12th through February 4th, I'll be sprinting through the following
 | Date(s) | City | Train Route | Notebook | HTML |
 | --- | --- | --- | --- | --- |
 | December 12 - 13 | Portland, OR | [Amtrak Cascades](https://www.amtrak.com/cascades-train) | [📔](https://github.dev/dynamicwebpaige/IRL-ticket-to-ride/blob/main/notebooks/1-Portland.ipynb) | [📄](https://dynamicwebpaige.github.io/1-Portland.html) | 
-| December 14 - 16 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) | 
+| December 14 - 16 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) <br>[Capitol Corridor](https://en.wikipedia.org/wiki/Capitol_Corridor)| 
 | December 17 - 19 | Glenwood Springs, CO | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | December 20 | Chicago, IL | [California Zephyr](https://www.amtrak.com/california-zephyr-train) | |
 | December 21 - 23 | Boston, MA | [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train) | 
