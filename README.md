@@ -31,6 +31,10 @@ From December 12th through February 4th, I'll be sprinting through the following
 | February 5 - 8 | Truckee, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | February 8 - 11 | San Francisco, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 
+#### The Plan (at least, as of today)
+
+![](https://raw.githubusercontent.com/dynamicwebpaige/IRL-ticket-to-ride/main/plots/Screen%20Shot%202021-12-18%20at%207.10.27%20PM.png)
+
 There will almost certainly be snags, delays, and poor weather along the way - and I'll be documenting **everything**. Each one of these cities has amazing culture, friends to visit, and family to hug - not to mention great food and coffee. I can't wait to share my experiences with you, and to take in, first-hand, everything that the United States has to offer.
 
 Stay tuned, and please send me recommendations for stops! They're always appreciated. 🤗
