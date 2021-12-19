@@ -31,7 +31,7 @@ From December 12th through February 4th, I'll be sprinting through the following
 | February 5 - 8 | Truckee, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | February 8 - 11 | San Francisco, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 
-#### The Plan (at least, as of today)
+## ✅ `The Plan` (at least, as of today)
 
 ![](https://raw.githubusercontent.com/dynamicwebpaige/IRL-ticket-to-ride/main/plots/Screen%20Shot%202021-12-18%20at%207.10.27%20PM.png)
 
