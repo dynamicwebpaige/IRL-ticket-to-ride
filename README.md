@@ -17,12 +17,11 @@ From December 12th through February 4th, I'll be sprinting through the following
 | December 20 | Chicago, IL | [California Zephyr](https://www.amtrak.com/california-zephyr-train) | |
 | December 21 - 23 | Boston, MA | [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train) | 
 | December 23 - 26 | New York, NY | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
-| December 27 - 30 | Atlanta, GA | [Crescent Train](https://www.amtrak.com/crescent-train) |
-| December 31 - January 1 | New Orleans, LA | [Crescent Train](https://www.amtrak.com/crescent-train) |
+| December 27 - 29 | Atlanta, GA | [Crescent Train](https://www.amtrak.com/crescent-train) |
+| December 31 | New Orleans, LA | [Crescent Train](https://www.amtrak.com/crescent-train) |
 | January 2 - 4 | San Antonio, TX | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
 | January 5 - 8 | Los Angeles, CA | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
-| January 9 - 11 | Washington, D.C. | [Southwest Chief](https://www.amtrak.com/southwest-chief-train) |
-| January 11 - 14 | New York, NY (pt. 2) | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
+| January 11 - 14 | Washington, D.C. | [Southwest Chief](https://www.amtrak.com/southwest-chief-train) |
 | January 15 - 16 | McGregor, TX | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) |
 | January 17 - 20 | Austin, TX | _Going on a road trip with PaigeMom._ 😄 | 
 | January 21 - 22 | Chicago, IL | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) | 
