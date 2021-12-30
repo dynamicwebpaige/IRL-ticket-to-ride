@@ -37,3 +37,16 @@ From December 12th through February 4th, I'll be sprinting through the following
 There will almost certainly be snags, delays, and poor weather along the way - and I'll be documenting **everything**. Each one of these cities has amazing culture, friends to visit, and family to hug - not to mention great food and coffee. I can't wait to share my experiences with you, and to take in, first-hand, everything that the United States has to offer.
 
 Stay tuned, and please send me recommendations for stops! They're always appreciated. 🤗
+
+## `Part II`: Planning mode...
+
+| | Lisbon, Portugal | |
+| | Bilbao, Spain | |
+| | Paris, France | | 
+| | London, England | |
+| | Brussels, Belgium | |
+| | Amsterdam, Netherlands | |
+| | Berlin, Germany | | 
+| | Warsaw, Poland | |
+| | Tallin, Estonia | |
+| | St. Petersburg, Moscow | | 
