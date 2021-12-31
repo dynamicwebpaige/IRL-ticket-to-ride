@@ -40,6 +40,8 @@ Stay tuned, and please send me recommendations for stops! They're always appreci
 
 ## `Part II`: Planning mode...
 
+| Dates | City | Train |
+| --- | --- | --- |
 | | Lisbon, Portugal | |
 | | Bilbao, Spain | |
 | | Paris, France | | 
