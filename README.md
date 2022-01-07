@@ -20,8 +20,8 @@ From December 12th through February 4th, I'll be sprinting through the following
 | December 27 - 29 | Atlanta, GA | [Crescent Train](https://www.amtrak.com/crescent-train) |
 | December 31 | New Orleans, LA | [Crescent Train](https://www.amtrak.com/crescent-train) |
 | January 2 - 4 | San Antonio, TX | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
-| January 5 - 8 | Los Angeles, CA | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
-| January 9 | Flagstaff, AZ | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
+| January 6 - 7 | Los Angeles, CA | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
+| January 8 | Flagstaff, AZ | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
 | January 11 | Washington, D.C. | [Capitol Limited](https://www.amtrak.com/capitol-limited-train) |
 | January 12 | Boston, MA | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
 | January 13 | Brunswick, ME | [Downeaster](https://www.amtrak.com/downeaster-train) | 
