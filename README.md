@@ -26,8 +26,8 @@ From December 12th through February 4th, I'll be sprinting through the following
 | January 12 | Boston, MA | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
 | January 13 | Brunswick, ME | [Downeaster](https://www.amtrak.com/downeaster-train) | 
 | January 14 | Chicago, IL | [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train) |
-| January 15 - 16 | McGregor, TX | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) |
-| January 17 - 20 | Waco, TX | _Going on a road trip with PaigeMom across Central Texas._ 😄 | 
+| January 16 | Detroit, MI | [Wolverine](https://www.amtrak.com/michigan-services-train) |
+| January 19 - 20 | Memphis, TN | [City of New Orleans](https://www.amtrak.com/city-of-new-orleans-train) |
 | January 21 - 22 | Chicago, IL | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) | 
 | January 23 - 24 | Whitefish, MT | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
 | January 24 - 25 | Leavenworth, WA | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
