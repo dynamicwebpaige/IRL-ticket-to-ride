@@ -35,7 +35,8 @@ From December 12th through February 4th, I'll be sprinting through the following
 | February 5 - 8 | Truckee, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | February 8 - 10 | San Francisco, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | February 11 | Bakersfield, CA | [San Joaquins](https://www.amtrak.com/san-joaquins-train) |
-| February 12 - 14 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
+| February 12 - 16 | New York, NY | |
+| Feburary 17 - 18 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
 
 ## ✅ `The Plan` (at least, as of today)
 
