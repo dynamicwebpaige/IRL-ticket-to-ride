@@ -16,7 +16,7 @@ From December 12th through February 4th, I'll be sprinting through the following
 | December 17 - 19 | Glenwood Springs, CO | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
 | December 20 | Chicago, IL | [California Zephyr](https://www.amtrak.com/california-zephyr-train) | |
 | December 21 - 23 | Boston, MA | [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train) | 
-| December 23 - 26 | New York, NY | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
+| December 23 - 26 | Brooklyn, NY | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
 | December 27 - 29 | Atlanta, GA | [Crescent Train](https://www.amtrak.com/crescent-train) |
 | December 31 | New Orleans, LA | [Crescent Train](https://www.amtrak.com/crescent-train) |
 | January 2 - 4 | San Antonio, TX | [Sunset Limited](https://www.amtrak.com/sunset-limited-train)  |
@@ -31,12 +31,11 @@ From December 12th through February 4th, I'll be sprinting through the following
 | January 21 - 22 | Chicago, IL | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) | 
 | January 23 - 24 | Whitefish, MT | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
 | January 24 - 25 | Leavenworth, WA | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
-| January 28 - February 4 | Carmel-by-the-Sea, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
-| February 5 - 8 | Truckee, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
-| February 8 - 10 | San Francisco, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
-| February 11 | Bakersfield, CA | [San Joaquins](https://www.amtrak.com/san-joaquins-train) |
-| February 12 - 16 | New York, NY | |
-| Feburary 17 - 18 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
+| January 29 - February 6 | Pacific Grove, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
+| February 7 - 10 | Carmel-by-the-Sea, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
+| February 12 - 16 | Brooklyn, NY | ✈️ 🤗 |
+| Feburary 17 - 20 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
+| February 20 | Bakersfield, CA | [San Joaquins](https://www.amtrak.com/san-joaquins-train) |
 
 ## ✅ `The Plan` (at least, as of today)
 
