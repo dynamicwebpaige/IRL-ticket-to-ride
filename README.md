@@ -57,6 +57,8 @@ Stay tuned, and please send me recommendations for stops! They're always appreci
 | | Brussels, Belgium | |
 | | Amsterdam, Netherlands | |
 | | Berlin, Germany | | 
+| | Zürich, Switzerland | |
+| | Munich, Germany | |
 | | Warsaw, Poland | |
 | | Tallin, Estonia | |
 | | St. Petersburg, Moscow | | 
