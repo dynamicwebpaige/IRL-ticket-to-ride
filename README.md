@@ -50,15 +50,34 @@ Stay tuned, and please send me recommendations for stops! They're always appreci
 
 | Dates | City | Train |
 | --- | --- | --- |
+| | Paris, France | |
 | | Lisbon, Portugal | |
+| | Porto, Portugal | |
 | | Bilbao, Spain | |
-| | Paris, France | | 
-| | London, England | |
+| | Madrid, Spain | |
+| | Barcelona, Spain | |
+| | Toulouse, France | | 
+| | Milan, Italy | |
+| | Rome, Italy | |
+| | Athens, Greece | |
+| | Sofia, Bulgaria | |
+| | Bucharest, Romania | |
+| | Belgrade, Serbia | |
+| | Budapest, Hungary | |
+| | Vienna, Austria | |
+| | Prague, Czechia | |
+| | Munich, Germany | | 
+| | Zurich, Switzerland | |
+| | Stuttgart, Germany | |
+| | Frankfurt, Germany | |
+| | Cologne, Germany | | 
 | | Brussels, Belgium | |
 | | Amsterdam, Netherlands | |
-| | Berlin, Germany | | 
-| | Zürich, Switzerland | |
-| | Munich, Germany | |
-| | Warsaw, Poland | |
+| | Hamburg, Germany | |
+| | Odensee, Denmark | | 
+| | Copenhagen, Denmark | |
+| | Oslo, Norway | |
+| | Karlstad, Sweden | |
+| | Stockholm, Sweden | |
 | | Tallin, Estonia | |
 | | St. Petersburg, Moscow | | 
