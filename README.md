@@ -63,6 +63,8 @@ Stay tuned, and please send me recommendations for stops! They're always appreci
 | | Sofia, Bulgaria | |
 | | Bucharest, Romania | |
 | | Belgrade, Serbia | |
+| | Zagreb, Croatia | | 
+| | Slovenia, specifically for the Computer Museum | |
 | | Budapest, Hungary | |
 | | Vienna, Austria | |
 | | Prague, Czechia | |
