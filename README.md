@@ -83,3 +83,5 @@ Stay tuned, and please send me recommendations for stops! They're always appreci
 | | Stockholm, Sweden | |
 | | Tallin, Estonia | |
 | | St. Petersburg, Moscow | | 
+
+* Austria, Belarus, and Poland need to fit in here somewhere.
