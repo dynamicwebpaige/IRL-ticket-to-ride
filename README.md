@@ -32,11 +32,11 @@ From December 12th through February 4th, I'll be sprinting through the following
 | January 21 - 22 | Chicago, IL | [Texas Eagle](https://www.amtrak.com/texas-eagle-train) | 
 | January 23 - 24 | Whitefish, MT | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
 | January 24 - 25 | Leavenworth, WA | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
-| January 29 - February 6 | Pacific Grove, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
-| February 7 - 10 | Carmel-by-the-Sea, CA | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
-| February 12 - 16 | Brooklyn, NY | ✈️ 🤗 |
-| Feburary 17 - 20 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
-| February 20 | Bakersfield, CA | [San Joaquins](https://www.amtrak.com/san-joaquins-train) |
+| January 29 - February 4 | Pacific Grove, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
+| February 4 - 7 | San Luis Obispo, CA | [Pacific Surfliner]() |
+| February 8 - 12 | Brooklyn, NY | ✈️ 🤗 |
+| Feburary 17 - 20 | San Francisco, CA | |
+| February 21 - March ? | Carmel-by-the-Sea, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) | 
 
 ## ✅ `The Plan` (at least, as of today)
 
