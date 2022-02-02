@@ -33,9 +33,9 @@ From December 12th through February 4th, I'll be sprinting through the following
 | January 23 - 24 | Whitefish, MT | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
 | January 24 - 25 | Leavenworth, WA | [Empire Builder](https://www.amtrak.com/empire-builder-train) |
 | January 29 - February 4 | Pacific Grove, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) |
-| February 4 - 7 | San Luis Obispo, CA | [Pacific Surfliner]() |
+| February 4 - 7 | San Luis Obispo, CA | [Pacific Surfliner](https://www.amtrak.com/pacific-surfliner-train) |
 | February 8 - 12 | Brooklyn, NY | ✈️ 🤗 |
-| Feburary 17 - 20 | San Francisco, CA | |
+| Feburary 17 - 20 | San Francisco, CA | [Pacific Surfliner](https://www.amtrak.com/pacific-surfliner-train) |
 | February 21 - March ? | Carmel-by-the-Sea, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) | 
 
 ## ✅ `The Plan` (at least, as of today)
