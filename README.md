@@ -9,13 +9,13 @@ This winter, I'll be traveling around the United States, taking advantage of Amt
 
 From December 12th through February 4th, I'll be sprinting through the following cities:
 
-| Date(s) | City | Train Route | Notebook | HTML |
+| Date(s) | City | Train Route | Notebook | 
 | --- | --- | --- | --- | 
 | December 12 - 13 | Portland, OR | [Amtrak Cascades](https://www.amtrak.com/cascades-train) | [📔](https://colab.research.google.com/drive/14Qkodi4j7Cn9jnqRBuvIev8WMcIO92X_?usp=sharing) |
-| December 14 - 16 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) <br>[Capitol Corridor](https://en.wikipedia.org/wiki/Capitol_Corridor)| 
-| December 17 - 19 | Glenwood Springs, CO | [California Zephyr](https://www.amtrak.com/california-zephyr-train) |
+| December 14 - 16 | San Francisco, CA | [Coast Starlight](https://www.amtrak.com/coast-starlight-train) <br> [Capitol Corridor](https://en.wikipedia.org/wiki/Capitol_Corridor)| |
+| December 17 - 19 | Glenwood Springs, CO | [California Zephyr](https://www.amtrak.com/california-zephyr-train) | |
 | December 20 | Chicago, IL | [California Zephyr](https://www.amtrak.com/california-zephyr-train) | |
-| December 21 - 23 | Boston, MA | [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train) | 
+| December 21 - 23 | Boston, MA | [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train) | |
 | December 23 - 26 | Brooklyn, NY | [Northeast Regional Train](https://www.amtrak.com/northeast-regional-train) |
 | December 27 - 29 | Atlanta, GA | [Crescent Train](https://www.amtrak.com/crescent-train) |
 | December 31 | New Orleans, LA | [Crescent Train](https://www.amtrak.com/crescent-train) |
